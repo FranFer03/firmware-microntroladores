@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|18be6eff-875e-4ca6-a30b-05deab5bb3cc
+C:\Users\franf\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|c841738c-a1ca-41b1-9d26-c2c676f3c182
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|b937313b-eec0-465b-bf2f-f464bac3e08f
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|f6d3d728-7ac6-4f86-bfd0-0e90959eaa2e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|d852d11b-704a-4f88-a007-03d8d8bfad8b
+C:\Users\franf\Documents\PSoC Creator\lcd\bluetooth.cydsn\bluetooth.cyprj|2a798af2-70c5-4474-b745-3a14a6134be7
+C:\Users\franf\Documents\PSoC Creator\LCD_I2C_Component-master\LCD_I2C.cylib\LCD_I2C.cyprj|c90980ac-e954-4522-a3f5-338f2e2a6f0a

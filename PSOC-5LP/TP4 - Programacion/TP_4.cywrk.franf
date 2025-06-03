@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="TP_4\problema_1b\TopDesign">
+<ExpandedNodeIds>
+<v>TP_4</v>
+<v>TP_4\problema_1a\TopDesign</v>
+<v>TP_4\problema_1a\problema_1a.cydwr</v>
+<v>TP_4\problema_1a\problema_1a.cydwr\Pins</v>
+<v>TP_4\problema_1a\problema_1a.cydwr\Analog</v>
+<v>TP_4\problema_1a\problema_1a.cydwr\Clocks</v>
+<v>TP_4\problema_1a\problema_1a.cydwr\Interrupts</v>
+<v>TP_4\problema_1a\problema_1a.cydwr\DMA</v>
+<v>TP_4\problema_1a\problema_1a.cydwr\System</v>
+<v>TP_4\problema_1a\problema_1a.cydwr\Directives</v>
+<v>TP_4\problema_1a\problema_1a.cydwr\Flash Security</v>
+<v>TP_4\problema_1a\problema_1a.cydwr\EEPROM</v>
+<v>TP_4\problema_1a\Header Files</v>
+<v>TP_4\problema_1a\Header Files\cyapicallbacks.h</v>
+<v>TP_4\problema_1a\Source Files</v>
+<v>TP_4\problema_1a\Source Files\main.c</v>
+<v>TP_4\problema_1a\Generated_Source</v>
+<v>TP_4\problema_1a\Generated_Source\PSoC5</v>
+<v>TP_4\problema_1b</v>
+<v>TP_4\problema_1b\TopDesign</v>
+<v>TP_4\problema_1b\problema_1b.cydwr</v>
+<v>TP_4\problema_1b\problema_1b.cydwr\Pins</v>
+<v>TP_4\problema_1b\problema_1b.cydwr\Analog</v>
+<v>TP_4\problema_1b\problema_1b.cydwr\Clocks</v>
+<v>TP_4\problema_1b\problema_1b.cydwr\Interrupts</v>
+<v>TP_4\problema_1b\problema_1b.cydwr\DMA</v>
+<v>TP_4\problema_1b\problema_1b.cydwr\System</v>
+<v>TP_4\problema_1b\problema_1b.cydwr\Directives</v>
+<v>TP_4\problema_1b\problema_1b.cydwr\Flash Security</v>
+<v>TP_4\problema_1b\problema_1b.cydwr\EEPROM</v>
+<v>TP_4\problema_1b\Header Files</v>
+<v>TP_4\problema_1b\Header Files\cyapicallbacks.h</v>
+<v>TP_4\problema_1b\Source Files</v>
+<v>TP_4\problema_1b\Source Files\main.c</v>
+<v>TP_4\problema_1b\Generated_Source</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5</v>
+<v>TP_4\problema_2\TopDesign</v>
+<v>TP_4\problema_2\problema_2.cydwr</v>
+<v>TP_4\problema_2\problema_2.cydwr\Pins</v>
+<v>TP_4\problema_2\problema_2.cydwr\Analog</v>
+<v>TP_4\problema_2\problema_2.cydwr\Clocks</v>
+<v>TP_4\problema_2\problema_2.cydwr\Interrupts</v>
+<v>TP_4\problema_2\problema_2.cydwr\DMA</v>
+<v>TP_4\problema_2\problema_2.cydwr\System</v>
+<v>TP_4\problema_2\problema_2.cydwr\Directives</v>
+<v>TP_4\problema_2\problema_2.cydwr\Flash Security</v>
+<v>TP_4\problema_2\problema_2.cydwr\EEPROM</v>
+<v>TP_4\problema_2\Header Files</v>
+<v>TP_4\problema_2\Header Files\cyapicallbacks.h</v>
+<v>TP_4\problema_2\Source Files</v>
+<v>TP_4\problema_2\Source Files\main.c</v>
+<v>TP_4\problema_2\Generated_Source</v>
+<v>TP_4\problema_2\Generated_Source\PSoC5</v>
+<v>TP_4\problema_3\TopDesign</v>
+<v>TP_4\problema_3\problema_3.cydwr</v>
+<v>TP_4\problema_3\problema_3.cydwr\Pins</v>
+<v>TP_4\problema_3\problema_3.cydwr\Analog</v>
+<v>TP_4\problema_3\problema_3.cydwr\Clocks</v>
+<v>TP_4\problema_3\problema_3.cydwr\Interrupts</v>
+<v>TP_4\problema_3\problema_3.cydwr\DMA</v>
+<v>TP_4\problema_3\problema_3.cydwr\System</v>
+<v>TP_4\problema_3\problema_3.cydwr\Directives</v>
+<v>TP_4\problema_3\problema_3.cydwr\Flash Security</v>
+<v>TP_4\problema_3\problema_3.cydwr\EEPROM</v>
+<v>TP_4\problema_3\Header Files</v>
+<v>TP_4\problema_3\Header Files\cyapicallbacks.h</v>
+<v>TP_4\problema_3\Source Files</v>
+<v>TP_4\problema_3\Source Files\main.c</v>
+<v>TP_4\problema_3\Generated_Source</v>
+<v>TP_4\problema_3\Generated_Source\PSoC5</v>
+<v>TP_4\problema_4\TopDesign</v>
+<v>TP_4\problema_4\problema_4.cydwr</v>
+<v>TP_4\problema_4\problema_4.cydwr\Pins</v>
+<v>TP_4\problema_4\problema_4.cydwr\Analog</v>
+<v>TP_4\problema_4\problema_4.cydwr\Clocks</v>
+<v>TP_4\problema_4\problema_4.cydwr\Interrupts</v>
+<v>TP_4\problema_4\problema_4.cydwr\DMA</v>
+<v>TP_4\problema_4\problema_4.cydwr\System</v>
+<v>TP_4\problema_4\problema_4.cydwr\Directives</v>
+<v>TP_4\problema_4\problema_4.cydwr\Flash Security</v>
+<v>TP_4\problema_4\problema_4.cydwr\EEPROM</v>
+<v>TP_4\problema_4\Header Files</v>
+<v>TP_4\problema_4\Header Files\cyapicallbacks.h</v>
+<v>TP_4\problema_4\Source Files</v>
+<v>TP_4\problema_4\Source Files\main.c</v>
+<v>TP_4\problema_4\Generated_Source</v>
+<v>TP_4\problema_4\Generated_Source\PSoC5</v>
+<v>TP_4\problema_5\TopDesign</v>
+<v>TP_4\problema_5\problema_5.cydwr</v>
+<v>TP_4\problema_5\problema_5.cydwr\Pins</v>
+<v>TP_4\problema_5\problema_5.cydwr\Analog</v>
+<v>TP_4\problema_5\problema_5.cydwr\Clocks</v>
+<v>TP_4\problema_5\problema_5.cydwr\Interrupts</v>
+<v>TP_4\problema_5\problema_5.cydwr\DMA</v>
+<v>TP_4\problema_5\problema_5.cydwr\System</v>
+<v>TP_4\problema_5\problema_5.cydwr\Directives</v>
+<v>TP_4\problema_5\problema_5.cydwr\Flash Security</v>
+<v>TP_4\problema_5\problema_5.cydwr\EEPROM</v>
+<v>TP_4\problema_5\Header Files</v>
+<v>TP_4\problema_5\Header Files\cyapicallbacks.h</v>
+<v>TP_4\problema_5\Source Files</v>
+<v>TP_4\problema_5\Source Files\main.c</v>
+<v>TP_4\problema_5\Generated_Source</v>
+<v>TP_4\problema_5\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>TP_4</v>
+<v>TP_4\problema_1a</v>
+<v>TP_4\problema_1b</v>
+<v>TP_4\problema_1b\TopDesign</v>
+<v>TP_4\problema_1b\problema_1b.cydwr</v>
+<v>TP_4\problema_1b\problema_1b.cydwr\Pins</v>
+<v>TP_4\problema_1b\problema_1b.cydwr\Analog</v>
+<v>TP_4\problema_1b\problema_1b.cydwr\Clocks</v>
+<v>TP_4\problema_1b\problema_1b.cydwr\Interrupts</v>
+<v>TP_4\problema_1b\problema_1b.cydwr\DMA</v>
+<v>TP_4\problema_1b\problema_1b.cydwr\System</v>
+<v>TP_4\problema_1b\problema_1b.cydwr\Directives</v>
+<v>TP_4\problema_1b\problema_1b.cydwr\Flash Security</v>
+<v>TP_4\problema_1b\problema_1b.cydwr\EEPROM</v>
+<v>TP_4\problema_1b\Header Files</v>
+<v>TP_4\problema_1b\Header Files\cyapicallbacks.h</v>
+<v>TP_4\problema_1b\Source Files</v>
+<v>TP_4\problema_1b\Source Files\main.c</v>
+<v>TP_4\problema_1b\Generated_Source</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\cy_boot</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\led</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\sw</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\cycodeshareexport.ld</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\cycodeshareimport.ld</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\cycodeshareimport.scat</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\cydevice.h</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\cydevice_trm.h</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\cydevicegnu.inc</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\cydevicegnu_trm.inc</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\cydeviceiar.inc</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\cydeviceiar_trm.inc</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\cydevicerv.inc</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\cydevicerv_trm.inc</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\cydisabledsheets.h</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\cyfitter.h</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\cyfitter_cfg.c</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\cyfitter_cfg.h</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\cyfittergnu.inc</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\cyfitteriar.inc</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\cyfitterrv.inc</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\cymetadata.c</v>
+<v>TP_4\problema_1b\Generated_Source\PSoC5\project.h</v>
+<v>TP_4\problema_2</v>
+<v>TP_4\problema_3</v>
+<v>TP_4\problema_4</v>
+<v>TP_4\problema_5</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>TP_4</v>
+<v>TP_4\problema_1a</v>
+<v>TP_4\problema_1a\TopDesign</v>
+<v>TP_4\problema_1a\TopDesign\TopDesign.cysch</v>
+<v>TP_4\problema_1b</v>
+<v>TP_4\problema_1b\TopDesign</v>
+<v>TP_4\problema_1b\TopDesign\TopDesign.cysch</v>
+<v>TP_4\problema_2</v>
+<v>TP_4\problema_2\TopDesign</v>
+<v>TP_4\problema_2\TopDesign\TopDesign.cysch</v>
+<v>TP_4\problema_3</v>
+<v>TP_4\problema_3\TopDesign</v>
+<v>TP_4\problema_3\TopDesign\TopDesign.cysch</v>
+<v>TP_4\problema_4</v>
+<v>TP_4\problema_4\TopDesign</v>
+<v>TP_4\problema_4\TopDesign\TopDesign.cysch</v>
+<v>TP_4\problema_5</v>
+<v>TP_4\problema_5\TopDesign</v>
+<v>TP_4\problema_5\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>TP_4</v>
+<v>TP_4\problema_1a</v>
+<v>TP_4\problema_1a\TopDesign</v>
+<v>TP_4\problema_1a\TopDesign\TopDesign.cysch</v>
+<v>TP_4\problema_1b</v>
+<v>TP_4\problema_1b\TopDesign</v>
+<v>TP_4\problema_1b\TopDesign\TopDesign.cysch</v>
+<v>TP_4\problema_2</v>
+<v>TP_4\problema_2\TopDesign</v>
+<v>TP_4\problema_2\TopDesign\TopDesign.cysch</v>
+<v>TP_4\problema_3</v>
+<v>TP_4\problema_3\TopDesign</v>
+<v>TP_4\problema_3\TopDesign\TopDesign.cysch</v>
+<v>TP_4\problema_4</v>
+<v>TP_4\problema_4\TopDesign</v>
+<v>TP_4\problema_4\TopDesign\TopDesign.cysch</v>
+<v>TP_4\problema_5</v>
+<v>TP_4\problema_5\TopDesign</v>
+<v>TP_4\problema_5\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>TP_4</v>
+<v>TP_4\problema_1a</v>
+<v>TP_4\problema_1a\CortexM3</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\problema_1a.elf</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\problema_1a.hex</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\problema_1a.map</v>
+<v>TP_4\problema_1a\problema_1a.gpdsc</v>
+<v>TP_4\problema_1a\problema_1a.rpt</v>
+<v>TP_4\problema_1a\problema_1a_timing.html</v>
+<v>TP_4\problema_1b</v>
+<v>TP_4\problema_1b\CortexM3</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\problema_1b.elf</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\problema_1b.hex</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\problema_1b.map</v>
+<v>TP_4\problema_1b\problema_1b.gpdsc</v>
+<v>TP_4\problema_1b\problema_1b.rpt</v>
+<v>TP_4\problema_1b\problema_1b_timing.html</v>
+<v>TP_4\problema_2</v>
+<v>TP_4\problema_2\CortexM3</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug\Listing Files\led_azul.lst</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug\Listing Files\led_rojo.lst</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug\Listing Files\sw_azul.lst</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug\Listing Files\sw_rojo.lst</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug\problema_2.elf</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug\problema_2.hex</v>
+<v>TP_4\problema_2\CortexM3\ARM_GCC_541\Debug\problema_2.map</v>
+<v>TP_4\problema_2\problema_2.gpdsc</v>
+<v>TP_4\problema_2\problema_2.rpt</v>
+<v>TP_4\problema_2\problema_2_timing.html</v>
+<v>TP_4\problema_3</v>
+<v>TP_4\problema_3\CortexM3</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug\Listing Files\clock.lst</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug\Listing Files\led.lst</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM.lst</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_PM.lst</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug\problema_3.elf</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug\problema_3.hex</v>
+<v>TP_4\problema_3\CortexM3\ARM_GCC_541\Debug\problema_3.map</v>
+<v>TP_4\problema_3\problema_3.gpdsc</v>
+<v>TP_4\problema_3\problema_3.rpt</v>
+<v>TP_4\problema_3\problema_3_timing.html</v>
+<v>TP_4\problema_4</v>
+<v>TP_4\problema_4\CortexM3</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\led.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\led_board.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_PM.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\reloj.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\reset_input.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\reset_output.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\sw.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\Listing Files\sw_inter.lst</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\problema_4.elf</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\problema_4.hex</v>
+<v>TP_4\problema_4\CortexM3\ARM_GCC_541\Debug\problema_4.map</v>
+<v>TP_4\problema_4\problema_4.gpdsc</v>
+<v>TP_4\problema_4\problema_4.rpt</v>
+<v>TP_4\problema_4\problema_4_timing.html</v>
+<v>TP_4\problema_5</v>
+<v>TP_4\problema_5\CortexM3</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\clock.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\EN1.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\EN2.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\motor.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_PM.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\reset_input.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\reset_output.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\sw.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\sw_1.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\sw_inter_1.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\Listing Files\sw_inter_2.lst</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\problema_5.elf</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\problema_5.hex</v>
+<v>TP_4\problema_5\CortexM3\ARM_GCC_541\Debug\problema_5.map</v>
+<v>TP_4\problema_5\problema_5.gpdsc</v>
+<v>TP_4\problema_5\problema_5.rpt</v>
+<v>TP_4\problema_5\problema_5_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>TP_4</v>
+<v>TP_4\problema_1a</v>
+<v>TP_4\problema_1a\CortexM3</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\problema_1a.elf</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\problema_1a.hex</v>
+<v>TP_4\problema_1a\CortexM3\ARM_GCC_541\Debug\problema_1a.map</v>
+<v>TP_4\problema_1a\problema_1a.gpdsc</v>
+<v>TP_4\problema_1a\problema_1a.rpt</v>
+<v>TP_4\problema_1a\problema_1a_timing.html</v>
+<v>TP_4\problema_1b</v>
+<v>TP_4\problema_1b\CortexM3</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\problema_1b.elf</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\problema_1b.hex</v>
+<v>TP_4\problema_1b\CortexM3\ARM_GCC_541\Debug\problema_1b.map</v>
+<v>TP_4\problema_1b\problema_1b.gpdsc</v>
+<v>TP_4\problema_1b\problema_1b.rpt</v>
+<v>TP_4\problema_1b\problema_1b_timing.html</v>
+<v>TP_4\problema_2</v>
+<v>TP_4\problema_2\CortexM3</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="TP_4">
+<ExpandedNodeIds>
+<v>TP_4</v>
+<v>TP_4\problema_1a</v>
+<v>TP_4\problema_1a\PSoC 5LP Architecture TRM</v>
+<v>TP_4\problema_1a\CY8C58LP Family Datasheet</v>
+<v>TP_4\problema_1a\System Reference Guides</v>
+<v>TP_4\problema_1a\System Reference Guides\cy_boot_v6_0</v>
+<v>TP_4\problema_1a\cy_pins_v2_20</v>
+<v>TP_4\problema_1a\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>TP_4\problema_1a\not_v1_0.pdf</v>
+<v>TP_4\problema_1b</v>
+<v>TP_4\problema_1b\PSoC 5LP Architecture TRM</v>
+<v>TP_4\problema_1b\CY8C58LP Family Datasheet</v>
+<v>TP_4\problema_1b\System Reference Guides</v>
+<v>TP_4\problema_1b\System Reference Guides\cy_boot_v6_0</v>
+<v>TP_4\problema_1b\cy_pins_v2_20</v>
+<v>TP_4\problema_1b\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>TP_4\problema_2</v>
+<v>TP_4\problema_2\PSoC 5LP Architecture TRM</v>
+<v>TP_4\problema_2\CY8C58LP Family Datasheet</v>
+<v>TP_4\problema_2\System Reference Guides</v>
+<v>TP_4\problema_2\System Reference Guides\cy_boot_v6_0</v>
+<v>TP_4\problema_2\cy_pins_v2_20</v>
+<v>TP_4\problema_2\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>TP_4\problema_3</v>
+<v>TP_4\problema_3\PSoC 5LP Architecture TRM</v>
+<v>TP_4\problema_3\CY8C58LP Family Datasheet</v>
+<v>TP_4\problema_3\System Reference Guides</v>
+<v>TP_4\problema_3\System Reference Guides\cy_boot_v6_0</v>
+<v>TP_4\problema_3\cy_clock_v2_20.pdf</v>
+<v>TP_4\problema_3\cy_pins_v2_20.pdf</v>
+<v>TP_4\problema_3\PWM_v3_30.pdf</v>
+<v>TP_4\problema_4</v>
+<v>TP_4\problema_4\PSoC 5LP Architecture TRM</v>
+<v>TP_4\problema_4\CY8C58LP Family Datasheet</v>
+<v>TP_4\problema_4\System Reference Guides</v>
+<v>TP_4\problema_4\System Reference Guides\cy_boot_v6_0</v>
+<v>TP_4\problema_4\cy_clock_v2_20.pdf</v>
+<v>TP_4\problema_4\cy_isr_v1_70.pdf</v>
+<v>TP_4\problema_4\cy_pins_v2_20</v>
+<v>TP_4\problema_4\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>TP_4\problema_4\not_v1_0.pdf</v>
+<v>TP_4\problema_4\PWM_v3_30.pdf</v>
+<v>TP_4\problema_5</v>
+<v>TP_4\problema_5\PSoC 5LP Architecture TRM</v>
+<v>TP_4\problema_5\CY8C58LP Family Datasheet</v>
+<v>TP_4\problema_5\System Reference Guides</v>
+<v>TP_4\problema_5\System Reference Guides\cy_boot_v6_0</v>
+<v>TP_4\problema_5\cy_clock_v2_20.pdf</v>
+<v>TP_4\problema_5\cy_isr_v1_70</v>
+<v>TP_4\problema_5\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
+<v>TP_4\problema_5\cy_pins_v2_20</v>
+<v>TP_4\problema_5\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>TP_4\problema_5\not_v1_0</v>
+<v>TP_4\problema_5\not_v1_0\not_v1_0.pdf</v>
+<v>TP_4\problema_5\PWM_v3_30.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>TP_4</v>
+<v>TP_4\problema_1a</v>
+<v>TP_4\problema_1a\PSoC 5LP Architecture TRM</v>
+<v>TP_4\problema_1a\CY8C58LP Family Datasheet</v>
+<v>TP_4\problema_1a\System Reference Guides</v>
+<v>TP_4\problema_1a\System Reference Guides\cy_boot_v6_0</v>
+<v>TP_4\problema_1a\cy_pins_v2_20</v>
+<v>TP_4\problema_1a\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>TP_4\problema_1a\not_v1_0.pdf</v>
+<v>TP_4\problema_1b</v>
+<v>TP_4\problema_1b\PSoC 5LP Architecture TRM</v>
+<v>TP_4\problema_1b\CY8C58LP Family Datasheet</v>
+<v>TP_4\problema_1b\System Reference Guides</v>
+<v>TP_4\problema_1b\System Reference Guides\cy_boot_v6_0</v>
+<v>TP_4\problema_1b\cy_pins_v2_20</v>
+<v>TP_4\problema_1b\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>TP_4\problema_2</v>
+<v>TP_4\problema_2\PSoC 5LP Architecture TRM</v>
+<v>TP_4\problema_2\CY8C58LP Family Datasheet</v>
+<v>TP_4\problema_2\System Reference Guides</v>
+<v>TP_4\problema_2\System Reference Guides\cy_boot_v6_0</v>
+<v>TP_4\problema_2\cy_pins_v2_20</v>
+<v>TP_4\problema_2\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>TP_4\problema_3</v>
+<v>TP_4\problema_3\PSoC 5LP Architecture TRM</v>
+<v>TP_4\problema_3\CY8C58LP Family Datasheet</v>
+<v>TP_4\problema_3\System Reference Guides</v>
+<v>TP_4\problema_3\System Reference Guides\cy_boot_v6_0</v>
+<v>TP_4\problema_3\cy_clock_v2_20.pdf</v>
+<v>TP_4\problema_3\cy_pins_v2_20.pdf</v>
+<v>TP_4\problema_3\PWM_v3_30.pdf</v>
+<v>TP_4\problema_4</v>
+<v>TP_4\problema_4\PSoC 5LP Architecture TRM</v>
+<v>TP_4\problema_4\CY8C58LP Family Datasheet</v>
+<v>TP_4\problema_4\System Reference Guides</v>
+<v>TP_4\problema_4\System Reference Guides\cy_boot_v6_0</v>
+<v>TP_4\problema_4\cy_clock_v2_20.pdf</v>
+<v>TP_4\problema_4\cy_isr_v1_70.pdf</v>
+<v>TP_4\problema_4\cy_pins_v2_20</v>
+<v>TP_4\problema_4\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>TP_4\problema_4\not_v1_0.pdf</v>
+<v>TP_4\problema_4\PWM_v3_30.pdf</v>
+<v>TP_4\problema_5</v>
+<v>TP_4\problema_5\PSoC 5LP Architecture TRM</v>
+<v>TP_4\problema_5\CY8C58LP Family Datasheet</v>
+<v>TP_4\problema_5\System Reference Guides</v>
+<v>TP_4\problema_5\System Reference Guides\cy_boot_v6_0</v>
+<v>TP_4\problema_5\cy_clock_v2_20.pdf</v>
+<v>TP_4\problema_5\cy_isr_v1_70</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\problema_1b.cydsn\TopDesign\TopDesign.cysch" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1345, 729" SelectedTabbedMdiWindow="405b9c17-7c72-4ccf-9e86-8f3ac93828e0"><DocumentWindow Key="C:\Users\franf\Documents\PSoC Creator\practico_n4\problema_1b.cydsn\TopDesign\TopDesign.cysch" Guid="405b9c17-7c72-4ccf-9e86-8f3ac93828e0" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

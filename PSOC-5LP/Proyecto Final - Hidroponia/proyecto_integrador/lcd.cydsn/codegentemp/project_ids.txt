@@ -1,0 +1,7 @@
+C:\Users\franf\Documents\PSoC Creator\proyecto_integrador\lcd.cydsn\lcd.cyprj|d779bc60-8a67-41c3-84a8-708a4294aaf9
+C:\Users\franf\Documents\PSoC Creator\LCD_I2C_Component-master\LCD_I2C.cylib\LCD_I2C.cyprj|9021f9a8-7c17-4f7f-9968-9d0f8feb74b1
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|1fc349d1-861f-4dd5-bb35-b06764680a88
+C:\Users\franf\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|28b89315-2535-4153-b0ea-1d0b0d397412
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|d7fe145d-0086-4ed2-b6e4-1b629342c725
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|a1986500-03fa-41dc-b11e-4aea052aa252
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|cb8d5fbe-8505-432f-80d7-0c6c43dfd7a7

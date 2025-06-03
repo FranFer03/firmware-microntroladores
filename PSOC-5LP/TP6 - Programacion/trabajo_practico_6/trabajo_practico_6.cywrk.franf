@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="trabajo_practico_6\problema2">
+<ExpandedNodeIds>
+<v>trabajo_practico_6</v>
+<v>trabajo_practico_6\problema1\TopDesign</v>
+<v>trabajo_practico_6\problema1\problema1.cydwr</v>
+<v>trabajo_practico_6\problema1\problema1.cydwr\Pins</v>
+<v>trabajo_practico_6\problema1\problema1.cydwr\Analog</v>
+<v>trabajo_practico_6\problema1\problema1.cydwr\Clocks</v>
+<v>trabajo_practico_6\problema1\problema1.cydwr\Interrupts</v>
+<v>trabajo_practico_6\problema1\problema1.cydwr\DMA</v>
+<v>trabajo_practico_6\problema1\problema1.cydwr\System</v>
+<v>trabajo_practico_6\problema1\problema1.cydwr\Directives</v>
+<v>trabajo_practico_6\problema1\problema1.cydwr\Flash Security</v>
+<v>trabajo_practico_6\problema1\problema1.cydwr\EEPROM</v>
+<v>trabajo_practico_6\problema1\Header Files</v>
+<v>trabajo_practico_6\problema1\Header Files\cyapicallbacks.h</v>
+<v>trabajo_practico_6\problema1\Source Files</v>
+<v>trabajo_practico_6\problema1\Source Files\main.c</v>
+<v>trabajo_practico_6\problema1\Generated_Source</v>
+<v>trabajo_practico_6\problema1\Generated_Source\PSoC5</v>
+<v>trabajo_practico_6\problema2</v>
+<v>trabajo_practico_6\problema2\TopDesign</v>
+<v>trabajo_practico_6\problema2\problema2.cydwr</v>
+<v>trabajo_practico_6\problema2\problema2.cydwr\Pins</v>
+<v>trabajo_practico_6\problema2\problema2.cydwr\Analog</v>
+<v>trabajo_practico_6\problema2\problema2.cydwr\Clocks</v>
+<v>trabajo_practico_6\problema2\problema2.cydwr\Interrupts</v>
+<v>trabajo_practico_6\problema2\problema2.cydwr\DMA</v>
+<v>trabajo_practico_6\problema2\problema2.cydwr\System</v>
+<v>trabajo_practico_6\problema2\problema2.cydwr\Directives</v>
+<v>trabajo_practico_6\problema2\problema2.cydwr\Flash Security</v>
+<v>trabajo_practico_6\problema2\problema2.cydwr\EEPROM</v>
+<v>trabajo_practico_6\problema2\Header Files</v>
+<v>trabajo_practico_6\problema2\Header Files\cyapicallbacks.h</v>
+<v>trabajo_practico_6\problema2\Source Files</v>
+<v>trabajo_practico_6\problema2\Source Files\main.c</v>
+<v>trabajo_practico_6\problema2\Generated_Source</v>
+<v>trabajo_practico_6\problema2\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>trabajo_practico_6</v>
+<v>trabajo_practico_6\problema1</v>
+<v>trabajo_practico_6\problema2</v>
+<v>trabajo_practico_6\problema2\TopDesign</v>
+<v>trabajo_practico_6\problema2\problema2.cydwr</v>
+<v>trabajo_practico_6\problema2\problema2.cydwr\Pins</v>
+<v>trabajo_practico_6\problema2\problema2.cydwr\Analog</v>
+<v>trabajo_practico_6\problema2\problema2.cydwr\Clocks</v>
+<v>trabajo_practico_6\problema2\problema2.cydwr\Interrupts</v>
+<v>trabajo_practico_6\problema2\problema2.cydwr\DMA</v>
+<v>trabajo_practico_6\problema2\problema2.cydwr\System</v>
+<v>trabajo_practico_6\problema2\problema2.cydwr\Directives</v>
+<v>trabajo_practico_6\problema2\problema2.cydwr\Flash Security</v>
+<v>trabajo_practico_6\problema2\problema2.cydwr\EEPROM</v>
+<v>trabajo_practico_6\problema2\Header Files</v>
+<v>trabajo_practico_6\problema2\Header Files\cyapicallbacks.h</v>
+<v>trabajo_practico_6\problema2\Source Files</v>
+<v>trabajo_practico_6\problema2\Source Files\main.c</v>
+<v>trabajo_practico_6\problema2\Generated_Source</v>
+<v>trabajo_practico_6\problema2\Generated_Source\PSoC5</v>
+<v>trabajo_practico_6\problema2\Generated_Source\PSoC5\Clock</v>
+<v>trabajo_practico_6\problema2\Generated_Source\PSoC5\contador</v>
+<v>trabajo_practico_6\problema2\Generated_Source\PSoC5\cy_boot</v>
+<v>trabajo_practico_6\problema2\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>trabajo_practico_6</v>
+<v>trabajo_practico_6\problema1</v>
+<v>trabajo_practico_6\problema1\TopDesign</v>
+<v>trabajo_practico_6\problema1\TopDesign\TopDesign.cysch</v>
+<v>trabajo_practico_6\problema2</v>
+<v>trabajo_practico_6\problema2\TopDesign</v>
+<v>trabajo_practico_6\problema2\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>trabajo_practico_6</v>
+<v>trabajo_practico_6\problema1</v>
+<v>trabajo_practico_6\problema1\TopDesign</v>
+<v>trabajo_practico_6\problema1\TopDesign\TopDesign.cysch</v>
+<v>trabajo_practico_6\problema2</v>
+<v>trabajo_practico_6\problema2\TopDesign</v>
+<v>trabajo_practico_6\problema2\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>trabajo_practico_6</v>
+<v>trabajo_practico_6\problema1</v>
+<v>trabajo_practico_6\problema1\CortexM3</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\Listing Files\button.lst</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock.lst</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\Listing Files\green.lst</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\Listing Files\red.lst</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\Listing Files\yellow.lst</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\problema1.elf</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\problema1.hex</v>
+<v>trabajo_practico_6\problema1\CortexM3\ARM_GCC_541\Debug\problema1.map</v>
+<v>trabajo_practico_6\problema1\problema1.gpdsc</v>
+<v>trabajo_practico_6\problema1\problema1.rpt</v>
+<v>trabajo_practico_6\problema1\problema1_timing.html</v>
+<v>trabajo_practico_6\problema2</v>
+<v>trabajo_practico_6\problema2\CortexM3</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541\Debug</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock.lst</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541\Debug\Listing Files\led.lst</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541\Debug\Listing Files\pulsador.lst</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541\Debug\problema2.elf</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541\Debug\problema2.hex</v>
+<v>trabajo_practico_6\problema2\CortexM3\ARM_GCC_541\Debug\problema2.map</v>
+<v>trabajo_practico_6\problema2\problema2.gpdsc</v>
+<v>trabajo_practico_6\problema2\problema2.rpt</v>
+<v>trabajo_practico_6\problema2\problema2_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>trabajo_practico_6</v>
+<v>trabajo_practico_6\problema1</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>trabajo_practico_6</v>
+<v>trabajo_practico_6\problema1</v>
+<v>trabajo_practico_6\problema1\PSoC 5LP Architecture TRM</v>
+<v>trabajo_practico_6\problema1\CY8C58LP Family Datasheet</v>
+<v>trabajo_practico_6\problema1\System Reference Guides</v>
+<v>trabajo_practico_6\problema1\System Reference Guides\cy_boot_v6_0</v>
+<v>trabajo_practico_6\problema1\cy_clock_v2_20.pdf</v>
+<v>trabajo_practico_6\problema1\cy_pins_v2_20</v>
+<v>trabajo_practico_6\problema1\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>trabajo_practico_6\problema1\Debouncer_v1_0.pdf</v>
+<v>trabajo_practico_6\problema2</v>
+<v>trabajo_practico_6\problema2\PSoC 5LP Architecture TRM</v>
+<v>trabajo_practico_6\problema2\CY8C58LP Family Datasheet</v>
+<v>trabajo_practico_6\problema2\System Reference Guides</v>
+<v>trabajo_practico_6\problema2\System Reference Guides\cy_boot_v6_0</v>
+<v>trabajo_practico_6\problema2\cy_clock_v2_20.pdf</v>
+<v>trabajo_practico_6\problema2\cy_pins_v2_20</v>
+<v>trabajo_practico_6\problema2\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>trabajo_practico_6\problema2\Debouncer_v1_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>trabajo_practico_6</v>
+<v>trabajo_practico_6\problema1</v>
+<v>trabajo_practico_6\problema1\PSoC 5LP Architecture TRM</v>
+<v>trabajo_practico_6\problema1\CY8C58LP Family Datasheet</v>
+<v>trabajo_practico_6\problema1\System Reference Guides</v>
+<v>trabajo_practico_6\problema1\System Reference Guides\cy_boot_v6_0</v>
+<v>trabajo_practico_6\problema1\cy_clock_v2_20.pdf</v>
+<v>trabajo_practico_6\problema1\cy_pins_v2_20</v>
+<v>trabajo_practico_6\problema1\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>trabajo_practico_6\problema1\Debouncer_v1_0.pdf</v>
+<v>trabajo_practico_6\problema2</v>
+<v>trabajo_practico_6\problema2\PSoC 5LP Architecture TRM</v>
+<v>trabajo_practico_6\problema2\CY8C58LP Family Datasheet</v>
+<v>trabajo_practico_6\problema2\System Reference Guides</v>
+<v>trabajo_practico_6\problema2\System Reference Guides\cy_boot_v6_0</v>
+<v>trabajo_practico_6\problema2\cy_clock_v2_20.pdf</v>
+<v>trabajo_practico_6\problema2\cy_pins_v2_20</v>
+<v>trabajo_practico_6\problema2\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>trabajo_practico_6\problema2\Debouncer_v1_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="6c335137-fa19-46ce-bc2d-2fbeb6d5f2a2">
+<CyGuid_70084457-cd6a-4593-9ed0-7f6eeb432dc2 type_name="CyDesigner.Common.ProjMgmt.GUI.CyDependenciesCustomData" version="1">
+<dictName v=".\problema1.cydsn\problema1.cyprj">
+<listName />
+</dictName>
+<dictName v=".\problema2.cydsn\problema2.cyprj">
+<listName />
+</dictName>
+</CyGuid_70084457-cd6a-4593-9ed0-7f6eeb432dc2>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\problema2.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\problema2.cydsn\problema2.cydwr" />
+<name v=".\problema2.cydsn\main.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1055, 691" SelectedTabbedMdiWindow="4ce44949-f332-4bdb-a18f-eab3cf034031"><DocumentWindow Key="C:\Users\franf\Documents\PSoC Creator\trabajo_practico_6\problema2.cydsn\TopDesign\TopDesign.cysch" Guid="4ce44949-f332-4bdb-a18f-eab3cf034031" /><DocumentWindow Key="C:\Users\franf\Documents\PSoC Creator\trabajo_practico_6\problema2.cydsn\problema2.cydwr" Guid="db3bfa80-f762-4d1a-91e9-e0badfef4f14" /><DocumentWindow Key="C:\Users\franf\Documents\PSoC Creator\trabajo_practico_6\problema2.cydsn\main.c" Guid="1d26261e-6f87-4465-9638-05b376cd2344" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="49f0f224-d94b-4a7a-9c8a-eff3557db5aa" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

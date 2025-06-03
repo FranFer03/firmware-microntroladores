@@ -1,0 +1,9 @@
+C:\Users\franf\Documents\PSoC Creator\trabajo_practico_6\problema1.cydsn\problema1.cyprj|d069f1ea-e157-4d6d-acbb-32db629bd3e2
+C:\Users\franf\Documents\PSoC Creator\semaforo\semaforo.cylib\semaforo.cyprj|1f161100-859e-40d4-b7c5-30b5cc50ed5d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|fa6ebf74-3349-4fae-ae50-7397fcb4d2c4
+C:\Users\franf\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|fc8cf48b-d472-4f72-b90f-b1f4c45fd2d5
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|2a972b99-14fa-4a4e-b290-f72eee49ad07
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|32cd44db-2976-49a8-ba20-007bc38ad70a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|cc5ed717-82a1-4ea6-a79d-11580d827706
+C:\Users\franf\Documents\PSoC Creator\trabajo_practico_6\problema2.cydsn\problema2.cyprj|5b98f0c2-c37e-43a8-99de-a2f6217943db
+C:\Users\franf\Documents\PSoC Creator\contador\contador.cylib\contador.cyprj|64e83244-e502-4974-8e0d-028b1cc48de8
